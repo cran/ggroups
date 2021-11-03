@@ -1,6 +1,6 @@
-26067a3e8d26ec994be29f43b8dcd781 *DESCRIPTION
-0c6ce9da59acb87f5b6376646dc127f5 *NAMESPACE
-341071a72af5c19e8053e2acc79d32cd *NEWS.md
+439f564dfd6804fee7231a05a34eaffd *DESCRIPTION
+35058071225df8824c1371fa2b107f31 *NAMESPACE
+db434e5a57bbee9f617c0806fff8799b *NEWS.md
 56680425093679b9ee47cca41c491567 *R/Arow1.R
 64dc12980437589f74bb5ab65f4c2927 *R/Qgpu.R
 86ef8152c843006213cbc9f71ece6532 *R/buildA.R
@@ -10,14 +10,14 @@
 8ebaf71e199e61687fe4621ee2bd3f85 *R/inb.R
 508ccc77aa0cb607a7f45f022a197778 *R/inbreed.R
 b732b13174f6865a26477d0dde1691b3 *R/mat2tab.R
-9e3be6743e3ab0c8debd2155c39d993c *R/offspring.R
+9e944d710287a2efa95d73232ec860e0 *R/offspring.R
 8d522340ceade5887ce8f8b9a666792b *R/pedcheck.R
 b0ea0c9ec09eefb34fd0b5faf6bc92ca *R/peddown.R
 c7d5b707c012eb334bc1b959ca1ae00f *R/pedup.R
 f98767dcdbfefd0555b40577e06b21e1 *R/pruneped.R
 d7b11e902e3943060e2fe77d1b67c7de *R/qmat.R
 98ad2ed2c83f0f5ce96dc23595a03873 *R/qmatL.R
-5a74dc619b5cc2d813dc0b9212349a69 *R/qmatXL.R
+e3d6ceb8146046399503d2f845621d9b *R/qmatXL.R
 6f73db4dddff6b78425491c68367b011 *R/renum.R
 0cac09ab15e92fb00f7e39d63a1ac439 *R/rg.R
 d269b61cc33f1f3268c3c106469140af *R/smgsped.R
@@ -34,7 +34,7 @@ aa7fe23e35d70df4d1ab7e1cbaf3a29b *man/ggroups-package.Rd
 4d88a07c7f584f02c397543c0727ba68 *man/inb.Rd
 d279610b167b3207a193480b5a56dadb *man/inbreed.Rd
 798787c746b0a4c439372e166d890874 *man/mat2tab.Rd
-545751f33f66d5a04f3f44431f5e0b4d *man/offspring.Rd
+e1b2f01b1e42a693f66aaa7e42aeea8a *man/offspring.Rd
 a57fc0dd93b50e23f5e620bfaf546741 *man/pedcheck.Rd
 7c617028fc5b7f8a78ce38daaa8eff45 *man/peddown.Rd
 2d39ded8abb01ed68ea0e8179f7fdda9 *man/pedup.Rd
